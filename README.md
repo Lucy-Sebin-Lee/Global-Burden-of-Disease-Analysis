@@ -1,4 +1,4 @@
-# Global Burden of Diseases Mortality Results Analysis
+# Global Burden of Diseases Mortality Analysis
 
 ## 📊 Overview
 The Global Burden of Disease Study 2010 estimated the burden of diseases, injuries, and risk factors across the globe and within 21 world regions for the years 1990 and 2010. A key dataset from this study, provided by the Institute for Health Metrics and Evaluation [(IHME)](https://ghdx.healthdata.org/record/ihme-data/gbd-2010-mortality-results-1970-2010), includes the number of deaths and mortality rates by age group and sex for 187 countries, 21 regions, and globally—spanning the years 1970, 1980, 1990, 2000, and 2010.
