@@ -12,9 +12,13 @@ This project analyzes global and regional mortality trends using the GBD 2010 da
 
 ## 📁 Repository Structure  
 ```
-├── Global-Burden-of-Disease-Analysis.ipynb                      # Main notebook with analysis and visualizations
-├── IHME_GBD_2010_MORTALITY_AGE_SPECIFIC_BY_COUNTRY_1970_2010    # Raw data from IHME
-├── README.md                                                    # Project overview and documentation
+├── Global-Burden-of-Disease-Analysis.ipynb                        # Main Jupyter notebook with analysis, visualizations, and modeling
+├── IHME_GBD_2010_MORTALITY_AGE_SPECIFIC_BY_COUNTRY_1970_2010.csv  # Raw dataset from IHME
+├── Global-Death-Rate-by-Country.html                              # Interactive choropleth map
+├── Global-Death-Rate-by-Country-Static.png                        # Static image of death rate map by country (for GitHub preview)
+├── Global-Death-Rate-by-Year.html                                 # Interactive choropleth map
+├── Global-Death-Rate-by-Year-Static.png                           # Static image of death rate map by year (for GitHub preview)
+├── README.md                                                      # Project overview, objectives, and findings
 ```
 
 ## 🧠 Key Insights
