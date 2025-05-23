@@ -24,7 +24,7 @@ This project analyzes global and regional mortality trends using the GBD 2010 da
 - Clustering reveals disparities but requires more regional features for precision.
 - Predictive modeling shows potential to forecast future trends in global mortality.
 
-- ## 🛠 Tools & Technologies  
+## 🛠 Tools & Technologies  
 - **Language**: Python  
 - **Libraries**: numpy, pandas, matplotlib, seaborn, plotly  
 - **Platform**: Jupyter Notebook  
